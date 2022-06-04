@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/github-api/static/js/main.6287adbb.js",
+    "index.html": "/github-api/index.html",
+    "main.6287adbb.js.map": "/github-api/static/js/main.6287adbb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6287adbb.js"
+  ]
+}
